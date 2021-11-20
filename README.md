@@ -1,6 +1,6 @@
 # Portfolio
 Details of my projects:
-* Data manipulation/exploration in R
+* Data manipulation/exploration in R,Python
 * Spatial analysis using ArcGIS
 * Data visualization in Tableau
-* Miscellaneous: Pub;ications,ppts, reports
+* Miscellaneous: Publications,ppts,reports
