@@ -1,0 +1,45 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
+
+
+                           # Project Proposal- TTP 289
+
+**Aim**: 
+* To establish the relationship between the driving patterns and parameters( speed,acceleration,number of stops etc) with the type of drive train, fuel and vocation of the vehicle.
+
+* To predict the type of drivetrain,fuel type and the vocation based on the driving pattern.
+
+**Data set**: FLeet DNA dataset will be employed
+
+
+**Summary of the data set**:
+
+
+```{r,echo=FALSE}
+
+
+# data analysis for FLeet DNA  composite data
+
+library(data.table)
+fleetdna_compositedata<-fread("data_for_fleet_dna_composite_data.csv",stringsAsFactors = FALSE)
+
+summary(fleetdna_compositedata)
+("\n")
+
+```
+
+
+**Hypothesis to be tested**:
+
+1.	Conventional drivetrains and diesel fuel will be employed for long haul delivery.
+2.  local delivery vehicles will be more electriifed as compared to other vocations
+3. 
+
+*The drive trains considered are
+* The vocations are
+* The fuel types are
+
+
